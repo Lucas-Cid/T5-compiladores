@@ -1,0 +1,14 @@
+/home/lucas/Documentos/T4-compiladores/src/main/java/compiladores/t4/AlgumaGeradorC.java
+/home/lucas/Documentos/T4-compiladores/target/generated-sources/antlr4/compiladores/t4/AlgumaVisitor.java
+/home/lucas/Documentos/T4-compiladores/src/main/java/compiladores/t4/Tipos.java
+/home/lucas/Documentos/T4-compiladores/src/main/java/compiladores/t4/AlgumaSemantico.java
+/home/lucas/Documentos/T4-compiladores/src/main/java/compiladores/t4/Table.java
+/home/lucas/Documentos/T4-compiladores/target/generated-sources/antlr4/compiladores/t4/AlgumaBaseListener.java
+/home/lucas/Documentos/T4-compiladores/src/main/java/compiladores/t4/SemanticoUtils.java
+/home/lucas/Documentos/T4-compiladores/target/generated-sources/antlr4/compiladores/t4/AlgumaLexer.java
+/home/lucas/Documentos/T4-compiladores/src/main/java/compiladores/t4/Escopo.java
+/home/lucas/Documentos/T4-compiladores/target/generated-sources/antlr4/compiladores/t4/AlgumaBaseVisitor.java
+/home/lucas/Documentos/T4-compiladores/src/main/java/compiladores/t4/App.java
+/home/lucas/Documentos/T4-compiladores/target/generated-sources/antlr4/compiladores/t4/AlgumaParser.java
+/home/lucas/Documentos/T4-compiladores/target/generated-sources/antlr4/compiladores/t4/AlgumaListener.java
+/home/lucas/Documentos/T4-compiladores/src/main/java/compiladores/t4/MensagemErro.java
