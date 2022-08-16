@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void proc_imprime(char mensagem[80]){
-printf("%s", mensagem);
-printf("%s", "\n");
-}
 
 int main() {
-proc_imprime("teste");
+int  vetor[5];
+int  i;
+for(i = 0; i <= 4; i++){
+ vetor[i] = i+1;
+}
+printf("%d", vetor[0]);
 return 0;
 }

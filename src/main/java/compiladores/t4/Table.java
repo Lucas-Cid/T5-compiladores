@@ -63,7 +63,9 @@ public class Table {
     }
 
     public Tipos verify(String name){
-        return myTable.get(name).tipo;
+        if(myTable.containsKey(name))
+            return myTable.get(name).tipo;
+        return null;
     }
 
     public boolean exists(String name){
